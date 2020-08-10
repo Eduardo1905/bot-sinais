@@ -1,2 +1,5 @@
 python-dateutil
-git+git://github.com/iqoptionapi/iqoptionapi.git
+git+https://github.com/iqoptionapi/iqoptionapi.git
+
+# Se estiver te ocorrendo esse erro: ERROR: Cannot find command 'git' - do you have 'git' installed and in your PATH?
+# Instale git para Windows com esse link: https://git-scm.com/download/win
